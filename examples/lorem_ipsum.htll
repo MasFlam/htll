@@ -1,0 +1,36 @@
+(html :lang la
+(head
+
+(title Lorem ipsum)
+(style :type text/css
+	h1 {
+		font-family: sans-serif;
+	}
+)
+
+)(body
+
+(h1 Lorem ipsum)
+(hr)
+(p
+	Quod ducimus expedita minus neque rerum. Aut doloremque minus temporibus quaerat non neque.
+	Commodi sed quas deserunt quasi in. Voluptas sit doloribus similique quibusdam voluptatum
+	voluptatem. Et iure quis velit animi voluptate doloribus. Provident earum consequatur
+	accusantium vel neque et non eos.)
+(p
+	Odit sunt itaque veniam eum eum. Excepturi aperiam aut nam distinctio minus.
+	Sit at provident temporibus temporibus consequatur dolor.)
+(p
+	Vitae dolorem veniam illum fuga est. Et possimus dolore nobis voluptas enim ratione.
+	Velit et ut omnis porro aut. Quia ut et accusamus qui ex ex ducimus et.
+	Aut ullam autem autem quia omnis sint incidunt.)
+(p
+	Fugit soluta voluptate adipisci expedita quisquam quia voluptatum qui. Et aperiam omnis
+	error velit et et provident iste. Quibusdam distinctio modi voluptatem consectetur quia
+	nesciunt. Necessitatibus voluptate quod recusandae voluptate officiis.)
+(p
+	Neque qui nisi illum beatae velit. Quisquam sequi accusantium dolorum doloremque veritatis
+	quo molestiae. Ullam quidem omnis nisi repudiandae veritatis fuga.
+	Quo culpa quis harum cupiditate vel.)
+
+)))
